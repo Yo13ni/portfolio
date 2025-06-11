@@ -7,7 +7,7 @@ const Hero = () => {
 <section className="bg-black text-white flex flex-col-reverse md:flex-row items-center justify-center gap-10 px-6 md:px-16 py-12">
 <div className="text-center md:text-left max-w-md">
     <h1 className="text-4xl font-bold mb-2">Yonatan Awoke</h1>
-    <p className="text-yellow-400 text-xl font-semibold mb-4">Full Stack Developer</p>
+    <p className="text-yellow-400 text-xl font-semibold mb-4">Front end Developer</p>
     <a
       href="/resume.pdf"
       download
